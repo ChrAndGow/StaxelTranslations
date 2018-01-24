@@ -4,64 +4,64 @@ language.code=de-DE
 language=Deutsch
 
 //[Reference] 'This a simple black block.'
-staxel.tile.color.Color.black.description=Ein simpler schwarzer Block.
+staxel.tile.color.Color.black.description=Das ist ein simpler schwarzer Block.
 //[Reference] 'Black Block'
 staxel.tile.color.Color.black.name=Schwarzer Block
 //[Reference] 'This a simple red block.'
-staxel.tile.color.Color.red.description=Ein simpler roter Block.
+staxel.tile.color.Color.red.description=Das ist ein simpler roter Block.
 //[Reference] 'Red Block'
 staxel.tile.color.Color.red.name=Roter Block
 //[Reference] 'This a simple test block.'
-staxel.tile.color.Color.test.description=Ein simpler Test-Block.
+staxel.tile.color.Color.test.description=Das ist ein simpler Testblock.
 //[Reference] 'Test Block'
-staxel.tile.color.Color.test.name=Test-Block
+staxel.tile.color.Color.test.name=Testblock
 //[Reference] 'This a simple test stairs block.'
-staxel.tile.color.Color.test.stairs.description=Ein simpler Test-Treppen-Block.
+staxel.tile.color.Color.test.stairs.description=Das ist eine simple Test Treppe.
 //[Reference] 'Test Stairs Block'
-staxel.tile.color.Color.test.stairs.name=Test-Treppen-Block
+staxel.tile.color.Color.test.stairs.name=Test Treppe
 //[Reference] 'This a simple white block.'
-staxel.tile.color.Color.white.description=Ein simpler weißer Block.
+staxel.tile.color.Color.white.description=Das ist ein simpler weißer Block.
 //[Reference] 'White Block'
 staxel.tile.color.Color.white.name=Weißer Block
 //[Reference] 'This a simple yellow block.'
-staxel.tile.color.Color.yellow.description=Ein simpler gelber Block.
+staxel.tile.color.Color.yellow.description=Das ist ein simpler gelber Block.
 //[Reference] 'Yellow Block'
 staxel.tile.color.Color.yellow.name=Gelber Block
 
 //[Reference] 'This grass is purple... how spooky!'
 staxel.tile.creepy.PurpleGrassLayer.1.description=Dieses Gras ist lila … wie gruselig!
 //[Reference] 'Purple Grass Block'
-staxel.tile.creepy.PurpleGrassLayer.1.name=Lila-Gras-Block
+staxel.tile.creepy.PurpleGrassLayer.1.name=Lila Grasblock
 //[Reference] 'This grass is purple... how spooky!'
-staxel.tile.creepy.PurpleGrassLayer.2.description=Dieses Gras ist lila … wie gruselig!
+staxel.tile.creepy.PurpleGrassLayer.2.description=Dieses lange Gras ist lila … wie gruselig!
 //[Reference] 'Long Purple Grass Block'
-staxel.tile.creepy.PurpleGrassLayer.2.name=Langes-lila-Gras-Block
+staxel.tile.creepy.PurpleGrassLayer.2.name=Grasblock mit lila langem Gras
 
 //[Reference] 'Good, rich soil. Perfect for crop growing.'
-staxel.tile.dirt.Dirt.description=Nährstoffreicher Boden. Perfekt zum beackern.
+staxel.tile.dirt.Dirt.description=Nährstoffreicher Boden. Perfekt für das Pflanzenwachstum.
 //[Reference] 'Dirt Block'
-staxel.tile.dirt.Dirt.name=Erd-Block
+staxel.tile.dirt.Dirt.name=Erdboden
 //[Reference] 'This dirt block is tilled, ready for crops!'
-staxel.tile.dirt.Dirt.tilled.description=Diese Erde ist bestellt, bereit zum Bepflanzen.
+staxel.tile.dirt.Dirt.tilled.description=Dieser Erdboden ist gepflügt, bereit zum Bepflanzen.
 //[Reference] 'Tilled Dirt Block'
-staxel.tile.dirt.Dirt.tilled.name=Gepflügter Erd-Block
+staxel.tile.dirt.Dirt.tilled.name=Gepflügter Erdboden
 //[Reference] 'This tilled dirt block has been watered.'
-staxel.tile.dirt.Dirt.watered.description=Dieser gepflügte Erd-Block wurde bewässert.
+staxel.tile.dirt.Dirt.watered.description=Dieser gepflügte Erdboden wurde bewässert.
 //[Reference] 'Damp Tilled Dirt Block'
-staxel.tile.dirt.Dirt.watered.name=Feuchter gepflügter Erd-Block
+staxel.tile.dirt.Dirt.watered.name=Feuchter gepflügter Erdboden
 //[Reference] 'Dirt block border'
-staxel.tile.dirt.DirtBorder2.description=Erd-Block-Rand
+staxel.tile.dirt.DirtBorder2.description=Erdbodenrand
 //[Reference] 'Dirt Border'
-staxel.tile.dirt.DirtBorder2.name=Erd-Rand
+staxel.tile.dirt.DirtBorder2.name=Erdrand
 
 //[Reference] 'A flooring perfect for basements, dungeons or just about any underground building.'
-staxel.tile.dungeon.Dungeon1.description=Der perfekte Boden für jeden Keller, jedes Verlies und jeden anderen unterirdischen Bau.
+staxel.tile.dungeon.Dungeon1.description=Der perfekte Boden für jeden Keller, jedes Verlies oder jeden anderen Untergrundbau.
 //[Reference] 'Dungeon Floor'
 staxel.tile.dungeon.Dungeon1.name=Verliesboden
 //[Reference] 'A neat, sturdy, stone block.'
-staxel.tile.dungeon.DungeonStep.description=Ein solider Stein-Block.
+staxel.tile.dungeon.DungeonStep.description=Ein solider Steinblock.
 //[Reference] 'Dungeon Stone Block'
-staxel.tile.dungeon.DungeonStep.name=Verliesgestein-Block
+staxel.tile.dungeon.DungeonStep.name=Verliesgesteinblock
 //[Reference] 'Dungeon flooring with small tiles and a white trim.'
 staxel.tile.dungeon.Dungeontile1.description=Verliesboden mit kleinen Fliesen und einer weißen Zierleiste.
 //[Reference] 'Trimmed Dungeon Floor'
@@ -71,78 +71,78 @@ staxel.tile.dungeon.Dungeontile2.description=Verliesboden mit einer weißen Zier
 //[Reference] 'Trimmed Dungeon Floor'
 staxel.tile.dungeon.Dungeontile2.name=Verzierter Verliesboden
 //[Reference] 'Thick Dungeon block with a second layer of trim.'
-staxel.tile.dungeon.DungeonWall.description=Verliesgestein mit einer Zierschicht.
+staxel.tile.dungeon.DungeonWall.description=Verliesgestein mit einer zweiten Zierschicht.
 //[Reference] 'Trimmed Dungeon Stone Block'
-staxel.tile.dungeon.DungeonWall.name=Verzierter Verliesgestein-Block
+staxel.tile.dungeon.DungeonWall.name=Verzierter Verliesgesteinblock
 
 //[Reference] 'Grass grown in the fairy biome. Very soft, pretty and magical!'
 staxel.tile.fairyVillage.FairyGrassLayer.1.description=Gras aus dem Feen-Biom. Schön, weich und magisch!
 //[Reference] 'Pink Fairy Grass Block'
-staxel.tile.fairyVillage.FairyGrassLayer.1.name=Pinkes-Feengras-Block
+staxel.tile.fairyVillage.FairyGrassLayer.1.name=Pinker Feengrasboden
 //[Reference] 'Grass grown in the fairy biome. Very soft, pretty and magical!'
 staxel.tile.fairyVillage.FairyGrassLayer.2.description=Gras aus dem Feen-Biom. Schön, weich und magisch!
 //[Reference] 'Long Pink Fairy Grass Block'
-staxel.tile.fairyVillage.FairyGrassLayer.2.name=Langes-pinkes-Feengras-Block
+staxel.tile.fairyVillage.FairyGrassLayer.2.name=Grasblock mit langem pinken Feengras
 staxel.tile.grass.ForestGrassLayer.1.description=
 //[Reference] 'Forest Grass Block'
-staxel.tile.grass.ForestGrassLayer.1.name=Waldgras-Block
+staxel.tile.grass.ForestGrassLayer.1.name=Waldboden
 staxel.tile.grass.ForestGrassLayer.2.description=
 //[Reference] 'Long Forest Grass Block'
-staxel.tile.grass.ForestGrassLayer.2.name=Langes-Waldgras-Block
+staxel.tile.grass.ForestGrassLayer.2.name=Waldboden mit langem Gras
 
 //[Reference] 'Soft, green grass.'
 staxel.tile.grass.Grass.description=Weiches, grünes Gras.
 //[Reference] 'Grass Block'
-staxel.tile.grass.Grass.name=Gras-Block
+staxel.tile.grass.Grass.name=Grasblock
 //[Reference] 'Grass Block Border'
-staxel.tile.grass.GrassBorder2.description=Gras-Block-Rand
+staxel.tile.grass.GrassBorder2.description=Grasrand
 //[Reference] 'Grass Block Border'
-staxel.tile.grass.GrassBorder2.name=Gras-Block-Rand
+staxel.tile.grass.GrassBorder2.name=Grasbodenkrand
 //[Reference] 'Soft, green grass.'
 staxel.tile.grass.GrassLayer.1.description=Weiches, grünes Gras.
 //[Reference] 'Green Grass Block'
-staxel.tile.grass.GrassLayer.1.name=Grünes-Gras-Block
+staxel.tile.grass.GrassLayer.1.name=Grüner Grasblock
 //[Reference] 'Soft, long, green grass.'
 staxel.tile.grass.GrassLayer.2.description=Weiches, langes, grünes Gras.
 //[Reference] 'Long Green Grass Block'
-staxel.tile.grass.GrassLayer.2.name=Langes-grünes-Gras-Block
+staxel.tile.grass.GrassLayer.2.name=Grasblock mit langem grünen Gras
 staxel.tile.grass.MeadowGrassLayer.1.description=
 //[Reference] 'Meadow Grass Block'
-staxel.tile.grass.MeadowGrassLayer.1.name=Weidengras-Block
+staxel.tile.grass.MeadowGrassLayer.1.name=Weidengrasblock
 staxel.tile.grass.MeadowGrassLayer.2.description=
 //[Reference] 'Long Meadow Grass Block'
-staxel.tile.grass.MeadowGrassLayer.2.name=Langes-Weidengras-Block
+staxel.tile.grass.MeadowGrassLayer.2.name=Langes-Weidengrasblock
 staxel.tile.happyBlocks.brick.BlueBrick.description=
 //[Reference] 'Blue Brick Block'
-staxel.tile.happyBlocks.brick.BlueBrick.name=Blauer Ziegel-Block
+staxel.tile.happyBlocks.brick.BlueBrick.name=Blauer Ziegelblock
 staxel.tile.happyBlocks.brick.BrownBrick.description=
 //[Validate] Delete this comment if or when the translation is accurate.
 //[Reference] 'Brick Block'
-staxel.tile.happyBlocks.brick.BrownBrick.name=Brauner Ziegel-Block
+staxel.tile.happyBlocks.brick.BrownBrick.name=Brauner Ziegelblock
 staxel.tile.happyBlocks.brick.CreamBrick.description=
 //[Reference] 'Cream Brick Block'
-staxel.tile.happyBlocks.brick.CreamBrick.name=Cremefarbener Ziegel-Block
+staxel.tile.happyBlocks.brick.CreamBrick.name=Cremefarbener Ziegelblock
 staxel.tile.happyBlocks.brick.GreenBrick.description=
 //[Reference] 'Green Brick Block'
-staxel.tile.happyBlocks.brick.GreenBrick.name=Grüner Ziegel-Block
+staxel.tile.happyBlocks.brick.GreenBrick.name=Grüner Ziegelblock
 staxel.tile.happyBlocks.brick.GreyBrick.description=
 //[Reference] 'Grey Brick Block'
-staxel.tile.happyBlocks.brick.GreyBrick.name=Grauer Ziegel-Block
+staxel.tile.happyBlocks.brick.GreyBrick.name=Grauer Ziegelblock
 staxel.tile.happyBlocks.brick.OrangeBrick.description=
 //[Reference] 'Orange Brick Block'
-staxel.tile.happyBlocks.brick.OrangeBrick.name=Oranger Ziegel-Block
+staxel.tile.happyBlocks.brick.OrangeBrick.name=Oranger Ziegelblock
 staxel.tile.happyBlocks.brick.PinkBrick.description=
 //[Reference] 'Pink Brick Block'
-staxel.tile.happyBlocks.brick.PinkBrick.name=Pinker Ziegel-Block
+staxel.tile.happyBlocks.brick.PinkBrick.name=Pinker Ziegelblock
 staxel.tile.happyBlocks.brick.PurpleBrick.description=
 //[Reference] 'Purple Brick Block'
-staxel.tile.happyBlocks.brick.PurpleBrick.name=Lila Ziegel-Block
+staxel.tile.happyBlocks.brick.PurpleBrick.name=Lila Ziegelblock
 staxel.tile.happyBlocks.brick.RedBrick.description=
 //[Reference] 'Red Brick Block'
-staxel.tile.happyBlocks.brick.RedBrick.name=Roter Ziegel-Block
+staxel.tile.happyBlocks.brick.RedBrick.name=Roter Ziegelblock
 staxel.tile.happyBlocks.brick.YellowBrick.description=
 //[Reference] 'Yellow Brick Block'
-staxel.tile.happyBlocks.brick.YellowBrick.name=Gelber Ziegel-Block
+staxel.tile.happyBlocks.brick.YellowBrick.name=Gelber Ziegelblock
 staxel.tile.happyBlocks.carpet.BlueCheckerCarpet.description=
 //[Reference] 'Blue Checker Carpet'
 staxel.tile.happyBlocks.carpet.BlueCheckerCarpet.name=Blau karierter Teppich
@@ -169,67 +169,67 @@ staxel.tile.happyBlocks.carpet.YellowDotCarpet.description=
 staxel.tile.happyBlocks.carpet.YellowDotCarpet.name=Gelb gepunkteter Teppich
 staxel.tile.happyBlocks.pathing.PlazaBlock.2.description=
 //[Reference] 'Plaza Block'
-staxel.tile.happyBlocks.pathing.PlazaBlock.2.name=Piazza-Block
+staxel.tile.happyBlocks.pathing.PlazaBlock.2.name=Piazzablock
 staxel.tile.happyBlocks.pathing.PlazaBlock.description=
 //[Reference] 'Large Tile Plaza Block'
-staxel.tile.happyBlocks.pathing.PlazaBlock.name=Grober Piazza-Block
+staxel.tile.happyBlocks.pathing.PlazaBlock.name=Grober Piazzablock
 staxel.tile.happyBlocks.PlazaBlock.2.description=
 //[Reference] 'Plaza Block'
-staxel.tile.happyBlocks.PlazaBlock.2.name=Piazza-Block
+staxel.tile.happyBlocks.PlazaBlock.2.name=Piazzablock
 staxel.tile.happyBlocks.PlazaBlock.description=
 //[Reference] 'Large Tile Plaza Block'
-staxel.tile.happyBlocks.PlazaBlock.name=Grober Piazza-Block
+staxel.tile.happyBlocks.PlazaBlock.name=Grober Piazzablock
 staxel.tile.happyBlocks.stone.BlueStone.description=
 //[Reference] 'Blue Stone Block'
-staxel.tile.happyBlocks.stone.BlueStone.name=Blauer Stein-Block
+staxel.tile.happyBlocks.stone.BlueStone.name=Blauer Steinblock
 staxel.tile.happyBlocks.stone.BrownStone.description=
 //[Reference] 'Brown Stone Block'
-staxel.tile.happyBlocks.stone.BrownStone.name=Brauner Stein-Block
+staxel.tile.happyBlocks.stone.BrownStone.name=Brauner Steinblock
 staxel.tile.happyBlocks.stone.CreamStone.description=
 //[Reference] 'Cream Stone Block'
-staxel.tile.happyBlocks.stone.CreamStone.name=Cremefarbener Stein-Block
+staxel.tile.happyBlocks.stone.CreamStone.name=Cremefarbener Steinblock
 staxel.tile.happyBlocks.stone.greenStone.description=
 //[Reference] 'Green Stone Block'
-staxel.tile.happyBlocks.stone.greenStone.name=Grüner Stein-Block
+staxel.tile.happyBlocks.stone.greenStone.name=Grüner Steinblock
 staxel.tile.happyBlocks.stone.OrangeStone.description=
 //[Reference] 'Orange Stone Block'
-staxel.tile.happyBlocks.stone.OrangeStone.name=Oranger Stein-Block
+staxel.tile.happyBlocks.stone.OrangeStone.name=Oranger Steinblock
 staxel.tile.happyBlocks.stone.PinkStone.description=
 //[Reference] 'Pink Stone Block'
-staxel.tile.happyBlocks.stone.PinkStone.name=Pinker Stein-Block
+staxel.tile.happyBlocks.stone.PinkStone.name=Pinker Steinblock
 staxel.tile.happyBlocks.stone.PurpleStone.description=
 //[Reference] 'Purple Stone Block'
-staxel.tile.happyBlocks.stone.PurpleStone.name=Lila Stein-Block
+staxel.tile.happyBlocks.stone.PurpleStone.name=Lila Steinblock
 staxel.tile.happyBlocks.stone.RedStone.description=
 //[Reference] 'Red Stone Block'
-staxel.tile.happyBlocks.stone.RedStone.name=Roter Stein-Block
+staxel.tile.happyBlocks.stone.RedStone.name=Roter Steinblock
 staxel.tile.happyBlocks.stone.WhiteStone.description=
 //[Reference] 'White Stone Block'
-staxel.tile.happyBlocks.stone.WhiteStone.name=Weißer Stein-Block
+staxel.tile.happyBlocks.stone.WhiteStone.name=Weißer Steinblock
 staxel.tile.happyBlocks.stone.YellowStone.description=
 //[Reference] 'Yellow Stone Block'
-staxel.tile.happyBlocks.stone.YellowStone.name=Gelber Stein-Block
+staxel.tile.happyBlocks.stone.YellowStone.name=Gelber Steinblock
 staxel.tile.happyBlocks.wood.BlueWood.description=
 //[Reference] 'Blue Wood Block'
-staxel.tile.happyBlocks.wood.BlueWood.name=Blauer Holz-Block
+staxel.tile.happyBlocks.wood.BlueWood.name=Blauer Holzblock
 staxel.tile.happyBlocks.wood.BrownWood.description=
 //[Reference] 'Brown Wood Block'
-staxel.tile.happyBlocks.wood.BrownWood.name=Brauner Holz-Block
+staxel.tile.happyBlocks.wood.BrownWood.name=Brauner Holzblock
 staxel.tile.happyBlocks.wood.CreamWood.description=
 //[Reference] 'Cream Wood Block'
-staxel.tile.happyBlocks.wood.CreamWood.name=Cremefarbener Holz-Block
+staxel.tile.happyBlocks.wood.CreamWood.name=Cremefarbener Holzblock
 staxel.tile.happyBlocks.wood.DarkTexturedWood.description=
 //[Reference] 'Dark Textured Wood Block'
-staxel.tile.happyBlocks.wood.DarkTexturedWood.name=Dunkler Holz-Block
+staxel.tile.happyBlocks.wood.DarkTexturedWood.name=Dunkler Holzblock
 staxel.tile.happyBlocks.wood.GreenWood.description=
 //[Reference] 'Green Wood Block'
-staxel.tile.happyBlocks.wood.GreenWood.name=Grüner Holz-Block
+staxel.tile.happyBlocks.wood.GreenWood.name=Grüner Holzblock
 staxel.tile.happyBlocks.wood.GreyWood.description=
 //[Reference] 'Gray Wood Block'
-staxel.tile.happyBlocks.wood.GreyWood.name=Grauer Holz-Block
+staxel.tile.happyBlocks.wood.GreyWood.name=Grauer Holzblock
 staxel.tile.happyBlocks.wood.LightTexturedWood.description=
 //[Reference] 'Light Textured Wood Block'
-staxel.tile.happyBlocks.wood.LightTexturedWood.name=Heller Holz-Block
+staxel.tile.happyBlocks.wood.LightTexturedWood.name=Heller Holzblock
 staxel.tile.happyBlocks.wood.MediumTexturedWood.description=
 //[Reference] 'Medium Textured Wood Block'
 staxel.tile.happyBlocks.wood.MediumTexturedWood.name=Standard Holz-Block
@@ -238,32 +238,32 @@ staxel.tile.happyBlocks.wood.OrangeWood.description=
 staxel.tile.happyBlocks.wood.OrangeWood.name=Oranger Holz-Block
 staxel.tile.happyBlocks.wood.PinkWood.description=
 //[Reference] 'Pink Wood Block'
-staxel.tile.happyBlocks.wood.PinkWood.name=Pinker Holz-Block
+staxel.tile.happyBlocks.wood.PinkWood.name=Pinker Holzblock
 staxel.tile.happyBlocks.wood.PurpleWood.description=
 //[Reference] 'Purple Wood Block'
-staxel.tile.happyBlocks.wood.PurpleWood.name=Lila Holz-Block
+staxel.tile.happyBlocks.wood.PurpleWood.name=Lila Holzblock
 staxel.tile.happyBlocks.wood.RedWood.description=
 //[Reference] 'Red Wood Block'
-staxel.tile.happyBlocks.wood.RedWood.name=Roter Holz-Block
+staxel.tile.happyBlocks.wood.RedWood.name=Roter Holzblock
 staxel.tile.happyBlocks.wood.TexturedWood.description=
 //[Reference] 'Textured Wood Block'
-staxel.tile.happyBlocks.wood.TexturedWood.name=Natur-Holz-Block
+staxel.tile.happyBlocks.wood.TexturedWood.name=Natürlicher Holzblock
 staxel.tile.happyBlocks.wood.YellowWood.description=
 //[Reference] 'Yellow Wood Block'
-staxel.tile.happyBlocks.wood.YellowWood.name=Gelber Holz-Block
+staxel.tile.happyBlocks.wood.YellowWood.name=Gelber Holzblock
 
 //[Reference] 'Healthy, bright green leaves.'
 staxel.tile.leaves.Leaf.1.description=Gesunde, hellgrüne Blätter.
 //[Reference] 'Green Leaf Block'
-staxel.tile.leaves.Leaf.1.name=Grüner Blätter-Block
+staxel.tile.leaves.Leaf.1.name=Grüner Blätterblock
 //[Reference] 'Healthy, bright green leaves.'
 staxel.tile.leaves.Leaf.2.description=Gesunde, hellgrüne Blätter.
 //[Reference] 'Green Leaf Block'
-staxel.tile.leaves.Leaf.2.name=Grüner Blätter-Block
+staxel.tile.leaves.Leaf.2.name=Grüner Blätterblock
 //[Reference] 'Healthy, bright green leaves.'
 staxel.tile.leaves.Leaf.3.description=Gesunde, hellgrüne Blätter.
 //[Reference] 'Green Leaf Block'
-staxel.tile.leaves.Leaf.3.name=Grüner Blätter-Block
+staxel.tile.leaves.Leaf.3.name=Grüner Blätterblock
 //[Reference] 'Healthy, bright green leaves.'
 staxel.tile.leaves.Leaf.4.description=Gesunde, hellgrüne Blätter.
 //[Reference] 'Green Leaf Block'
@@ -271,22 +271,22 @@ staxel.tile.leaves.Leaf.4.name=Grüner Blätter-Block
 //[Reference] 'Healthy, bright green leaves.'
 staxel.tile.leaves.Leaf.5.description=Gesunde, hellgrüne Blätter.
 //[Reference] 'Green Leaf Block'
-staxel.tile.leaves.Leaf.5.name=Grüner Blätter-Block
+staxel.tile.leaves.Leaf.5.name=Grüner Blätterblock
 //[Reference] 'Healthy, bright green leaves.'
 staxel.tile.leaves.Leaf.6.description=Gesunde, hellgrüne Blätter.
 //[Reference] 'Green Leaf Block'
-staxel.tile.leaves.Leaf.6.name=Grüner Blätter-Block
+staxel.tile.leaves.Leaf.6.name=Grüner Blätterblock
 //[Reference] 'Healthy, bright green leaves.'
 staxel.tile.leaves.Leaf.7.description=Gesunde, hellgrüne Blätter.
 //[Reference] 'Green Leaf Block'
-staxel.tile.leaves.Leaf.7.name=Grüner Blätter-Block
+staxel.tile.leaves.Leaf.7.name=Grüner Blätterblock
 //[Reference] 'Leaves grown in the fairy biome. Soft pink leaves!'
 staxel.tile.leaves.Leaf.Fairy.description=Blätter aus dem Feen-Biom. Weiche, pinke Blätter!
 //[Reference] 'Pink Fairy Leaf Block'
-staxel.tile.leaves.Leaf.Fairy.name=Pinker Feenblätter-Block
+staxel.tile.leaves.Leaf.Fairy.name=Pinker Feenblätterblock
 staxel.tile.leaves.Leaf.Forest.description=
 //[Reference] 'Forest Leaf Block'
-staxel.tile.leaves.Leaf.Forest.name=Waldblätter-Block
+staxel.tile.leaves.Leaf.Forest.name=Waldblätterblock
 
 //[Reference] 'This grass looks dead!'
 staxel.tile.lighthouse.Grass.dry.description=Dieses Gras sieht tot aus!
@@ -311,23 +311,23 @@ staxel.tile.lighthouse.Grass.veryLong.name=Langes Gras
 //[Reference] 'This block has some engravings carved into it.'
 staxel.tile.lighthouse.Lighthouse.innerWall.description=In diesen Block ist etwas eingraviert.
 //[Reference] 'Engraved White Brick Block'
-staxel.tile.lighthouse.Lighthouse.innerWall.name=Gravierter weißer Ziegel-Block
+staxel.tile.lighthouse.Lighthouse.innerWall.name=Gravierter weißer Ziegelblock
 //[Reference] 'A white block with a diamond shape on it.'
-staxel.tile.lighthouse.LighthouseLamp.description=Ein weißer Block mit einer Diamanten-Form darauf.
+staxel.tile.lighthouse.LighthouseLamp.description=Ein weißer Block mit einer Diamantform darauf.
 //[Reference] 'White Brick Block'
-staxel.tile.lighthouse.LighthouseLamp.name=Weißer Ziegel-Block
+staxel.tile.lighthouse.LighthouseLamp.name=Weißer Ziegelblock
 //[Reference] 'A solid metal block'
-staxel.tile.lighthouse.MetalGridFloor.description=Ein solider Metall-Block.
+staxel.tile.lighthouse.MetalGridFloor.description=Ein solider Metallblock.
 //[Reference] 'Metal Grid Block'
 staxel.tile.lighthouse.MetalGridFloor.name=Metallgitter-Block
 //[Reference] 'A painted red wall'
 staxel.tile.lighthouse.PaintedBrick.red.description=Eine rot gestrichene Wand.
 //[Reference] 'Red Painted Brick Block'
-staxel.tile.lighthouse.PaintedBrick.red.name=Rot bemalter Ziegel-Block
+staxel.tile.lighthouse.PaintedBrick.red.name=Rot bemalter Ziegelblock
 //[Reference] 'A painted white wall'
 staxel.tile.lighthouse.PaintedBrick.white.description=Eine weiß gestrichene Wand
 //[Reference] 'White Painted Brick Block'
-staxel.tile.lighthouse.PaintedBrick.white.name=Weiß bemalter Ziegel-Block
+staxel.tile.lighthouse.PaintedBrick.white.name=Weiß bemalter Ziegelblock
 //[Reference] 'A small stone. Very common.'
 staxel.tile.lighthouse.Stone.small.description=Ein weit verbreiteter, kleiner Stein.
 //[Reference] 'Small Stone'
@@ -336,20 +336,20 @@ staxel.tile.lighthouse.Stone.small.name=Kleiner Stein
 //[Reference] 'A rough cobblestone block, great for outdoor pathing.'
 staxel.tile.newVillage.CobbleStonePath.description=Extrem grober Pflasterstein, perfekt für Fußwege.
 //[Reference] 'Cobblestone Path'
-staxel.tile.newVillage.CobbleStonePath.name=Pflasterstein-Pfad
+staxel.tile.newVillage.CobbleStonePath.name=gepflasterter Pfad
 staxel.tile.newVillage.CobbleStonePath2.description=
 //[Reference] 'Cobblestone Path'
-staxel.tile.newVillage.CobbleStonePath2.name=Pflasterstein-Pfad
+staxel.tile.newVillage.CobbleStonePath2.name=gepflasterter Pfad
 staxel.tile.newVillage.CobbleStonePath3.description=
 //[Reference] 'Cobblestone Path'
-staxel.tile.newVillage.CobbleStonePath3.name=Pflasterstein-Pfad
+staxel.tile.newVillage.CobbleStonePath3.name=gepflasterter Pfad
 staxel.tile.newVillage.CobbleStonePath4.description=
 //[Reference] 'Cobblestone Path'
-staxel.tile.newVillage.CobbleStonePath4.name=Pflasterstein-Pfad
+staxel.tile.newVillage.CobbleStonePath4.name=Pflasterstein Pfad
 //[Reference] 'A white brick block. Very standard style.'
-staxel.tile.newVillage.Homebrick.description=Ein weißer, standardmäßiger Ziegel-Block.
+staxel.tile.newVillage.Homebrick.description=Ein weißer, standardmäßiger Ziegelblock.
 //[Reference] 'White Brick Block'
-staxel.tile.newVillage.Homebrick.name=Weißer Ziegel-Block
+staxel.tile.newVillage.Homebrick.name=Weißer Ziegelblock
 //[Reference] 'Quality wooden flooring. Made from a light brown wood.'
 staxel.tile.newVillage.IndoorFlooring.description=Qualitativ hochwertiger Holzboden. Aus leichtem, braunem Holz hergestellt.
 //[Reference] 'Wooden Plank Flooring'
@@ -357,15 +357,15 @@ staxel.tile.newVillage.IndoorFlooring.name=Parkettboden
 //[Reference] 'A block made from light wooden planks.'
 staxel.tile.newVillage.LightWoodenBlock.description=Ein Block aus leichten Holzplanken.
 //[Reference] 'Light Wooden Plank Block'
-staxel.tile.newVillage.LightWoodenBlock.name=Leichter Holzplanken-Block
+staxel.tile.newVillage.LightWoodenBlock.name=Leichter Holzplankenblock
 //[Reference] 'White floor tile with an elegant design.'
 staxel.tile.newVillage.Pathway.stone.2.description=Elegant designte, weiße Bodenfliese.
 //[Reference] 'White Brick Pathway'
-staxel.tile.newVillage.Pathway.stone.2.name=Weißer Ziegel-Weg
+staxel.tile.newVillage.Pathway.stone.2.name=Weißer Ziegelweg
 //[Reference] 'A white floor tile with a simple design.'
 staxel.tile.newVillage.Pathway.stone.description=Einfache, weiße Bodenfliese.
 //[Reference] 'White Brick Pathway'
-staxel.tile.newVillage.Pathway.stone.name=Weißer Ziegel-Weg
+staxel.tile.newVillage.Pathway.stone.name=Weißer Ziegelweg
 //[Reference] 'Very thick and soft. It looks so comfortable, you could probably sleep on it!'
 staxel.tile.newVillage.PinkCarpet.description=Extrem dick und weich. Er sieht so gemütlich aus, man könnte fast drin schlafen!
 //[Reference] 'Pink Carpet Flooring'
@@ -375,59 +375,59 @@ staxel.tile.newVillage.RoughStonePathway.description=Ein sehr grober Gehweg aus 
 //[Reference] 'Rough Stone Pathway'
 staxel.tile.newVillage.RoughStonePathway.name=Grober Steinweg
 //[Reference] 'A crude looking brick block.'
-staxel.tile.newVillage.ShoddyWall.description=Ein grob aussehender Ziegel-Block.
+staxel.tile.newVillage.ShoddyWall.description=Ein grob aussehender Ziegelblock.
 //[Reference] 'Shoddy Brick Block'
-staxel.tile.newVillage.ShoddyWall.name=Schäbiger Ziegel-Block
+staxel.tile.newVillage.ShoddyWall.name=Schäbiger Ziegelblock
 staxel.tile.newVillage.ShopFlooring.description=
 //[Reference] 'Shop Flooring'
-staxel.tile.newVillage.ShopFlooring.name=Geschäftsboden
+staxel.tile.newVillage.ShopFlooring.name=Ladenboden
 staxel.tile.newVillage.ShopRoof.description=
 //[Reference] 'Shop Roof'
-staxel.tile.newVillage.ShopRoof.name=Geschäftsdach
+staxel.tile.newVillage.ShopRoof.name=Ladendach
 staxel.tile.newVillage.ShopWall1.description=
 
 //[Reference] 'Blue Shop Wall'
-staxel.tile.newVillage.ShopWall1.name=Blaue Geschäftswand
+staxel.tile.newVillage.ShopWall1.name=Blaue Ladenwand
 staxel.tile.newVillage.ShopWall2.description=
 //[Reference] 'Light Blue Shop Wall'
-staxel.tile.newVillage.ShopWall2.name=Hellblaue Geschäftswand
+staxel.tile.newVillage.ShopWall2.name=Hellblaue Ladenwand
 //[Reference] 'Thatch makes for a great roof!'
 staxel.tile.newVillage.ThatchBlock.description=Wie gemacht für ein Dach aus Stroh!
 //[Reference] 'Thatch Block'
-staxel.tile.newVillage.ThatchBlock.name=Stroh-Block
+staxel.tile.newVillage.ThatchBlock.name=Strohblock
 //[Reference] 'A thick wooden beam block. A great way to add a touch of coziness to a structure'
 staxel.tile.newVillage.WoodBeamTile.description=Ein solider Holzbalken. Perfekt, um ein Gebäude gemütlicher zu machen.
 //[Reference] 'Wooden Beam Block'
-staxel.tile.newVillage.WoodBeamTile.name=Holzbalken-Block
+staxel.tile.newVillage.WoodBeamTile.name=Holzbalkenblock
 //[Reference] 'A good wooden block to use both outdoors and in!'
 staxel.tile.newVillage.WoodenDecking.description=Ein guter Holz-Block für innen und außen!
 //[Reference] 'Dark Wooden Plank Flooring'
-staxel.tile.newVillage.WoodenDecking.name=Dunkler Holzplanken-Boden
+staxel.tile.newVillage.WoodenDecking.name=Dunkler Holzplankenboden
 staxel.tile.ocean.OceanTile.description=
 //[Reference] 'Ocean Block'
-staxel.tile.ocean.OceanTile.name=Ozean-Block
+staxel.tile.ocean.OceanTile.name=Ozeanblock
 
 //[Reference] 'A block with a deep black colour. Very mysterious!'
 staxel.tile.retrotest.darkstone.description=Ein Block in tiefschwarzer Farbe. Wie mysteriös!
 //[Reference] 'Darkstone Block'
-staxel.tile.retrotest.darkstone.name=Dunkelstein-Block
+staxel.tile.retrotest.darkstone.name=Dunkelsteinblock
 //[Reference] 'A block with a deep black colour. This darkstone block also has a golden trim.'
-staxel.tile.retrotest.darkstone_gold.description=Ein Block in tiefschwarzer Farbe … mit goldener Verzierung? Wie mysteriös!
+staxel.tile.retrotest.darkstone_gold.description=Ein Block in tiefschwarzer Farbe … mit goldener Verzierung.
 //[Reference] 'Gold Trimmed Darkstone Block'
-staxel.tile.retrotest.darkstone_gold.name=Gold-verzierter Dunkelstein-Block
+staxel.tile.retrotest.darkstone_gold.name=Gold-verzierter Dunkelsteinblock
 //[Reference] 'A block with a deep black colour. Very mysterious!'
 staxel.tile.retrotest.darkstone_plain.description=Ein Block in tiefschwarzer Farbe. Wie mysteriös!
 //[Reference] 'Darkstone Block'
-staxel.tile.retrotest.darkstone_plain.name=Dunkelstein-Block
+staxel.tile.retrotest.darkstone_plain.name=Dunkelsteinblock
 //[Reference] 'A dirt block with a melody symbol engraved on it.'
-staxel.tile.retrotest.dirtmelody.description=Ein Erd-Block, in den eine Melodie eingraviert ist.
+staxel.tile.retrotest.dirtmelody.description=Ein Erdblock, in den eine Melodie eingraviert ist.
 //[Reference] 'Dirt Melody'
-staxel.tile.retrotest.dirtmelody.name=Erd-Melodie
+staxel.tile.retrotest.dirtmelody.name=Erdmelodie
 //[Reference] 'A block with an ancient feel to it. Made up from big, brown bricks.'
 staxel.tile.retrotest.dungeon_brown_brick.description=Ein nahezu altertümlicher Block aus großen, braunen Ziegeln.
 //[Validate] Delete this comment if or when the translation is accurate.
 //[Reference] 'Brown Dungeon Brick Block'
-staxel.tile.retrotest.dungeon_brown_brick.name=Brauner Ziegel-Block
+staxel.tile.retrotest.dungeon_brown_brick.name=Brauner Ziegelblock
 //[Reference] 'A block made up from fine brown bricks.'
 staxel.tile.retrotest.dungeon_brown_cobblestone.description=Ein Block aus feinen, braunen Ziegeln.
 //[Reference] 'Brown Cobblestone Block'
