@@ -35,7 +35,7 @@ staxel.tile.creepy.PurpleGrassLayer.1.name=Lila-Gras-Block
 //[Reference] 'This grass is purple... how spooky!'
 staxel.tile.creepy.PurpleGrassLayer.2.description=Dieses Gras ist lila … wie gruselig!
 //[Reference] 'Long Purple Grass Block'
-staxel.tile.creepy.PurpleGrassLayer.2.name=Langes-lila-Gras-Block
+staxel.tile.creepy.PurpleGrassLayer.2.name=Langes lila Gras
 
 //[Reference] 'Good, rich soil. Perfect for crop growing.'
 staxel.tile.dirt.Dirt.description=Nährstoffreicher Boden. Perfekt zum beackern.
